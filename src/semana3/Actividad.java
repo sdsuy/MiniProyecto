@@ -24,11 +24,13 @@ public class Actividad {
 	
 	//Metodos
 	
-	public void Metodo() {
-		//este metodo programa segun edad y sexo las actividades
-		//tambien ingresa nuevos socios
+	public void Programar(int) {
+		
 	}
 	
+	public void IngresarSocio() {
+		
+	}
 	
 	
 	
