@@ -9,20 +9,10 @@ public class Actividad {
 	private boolean departamental;
 	private boolean nacional;
 	
-	//Constructores
-	
-	public Actividad() {
-		
-		this.dia = ";";
-		this.horario = "";
-		this.departamental;
-		this.nacional = "";
-	}
-	
 	
 	public Actividad(Date dia, Time horario, boolean departamental, boolean nacional) {
 		
-		this.dia = dia
+		this.dia = dia;
 		this.horario = horario;
 		this.departamental = departamental;
 		this.nacional = nacional;
@@ -33,6 +23,5 @@ public class Actividad {
 	
 	
 	
-	//Metodos
-
+	
 }
