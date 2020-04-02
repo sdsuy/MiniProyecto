@@ -9,7 +9,7 @@ public class Actividad {
 	private boolean departamental;
 	private boolean nacional;
 	
-	
+	//Constructor
 	public Actividad(Date dia, Time horario, boolean departamental, boolean nacional) {
 		
 		this.dia = dia;
