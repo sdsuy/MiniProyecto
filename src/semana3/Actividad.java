@@ -7,7 +7,7 @@ public class Actividad {
 	//Atributos
 	
 	private Date dia;
-	private DateTime horario;
+	private Time horario;
 	private boolean departamental;
 	private boolean nacional;
 	
@@ -23,6 +23,11 @@ public class Actividad {
 	}
 	
 	//Metodos
+	
+	public void Metodo() {
+		//este metodo programa segun edad y sexo las actividades
+		//tambien ingresa nuevos socios
+	}
 	
 	
 	
