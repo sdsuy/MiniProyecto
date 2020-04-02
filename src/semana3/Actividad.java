@@ -1,15 +1,18 @@
 package semana3;
 
+import java.util.Date;
+
 public class Actividad {
 	
 	//Atributos
 	
 	private Date dia;
-	private Time horario;
+	private DateTime horario;
 	private boolean departamental;
 	private boolean nacional;
 	
 	//Constructor
+	
 	public Actividad(Date dia, Time horario, boolean departamental, boolean nacional) {
 		
 		this.dia = dia;
@@ -17,8 +20,10 @@ public class Actividad {
 		this.departamental = departamental;
 		this.nacional = nacional;
 				
-				
 	}
+	
+	//Metodos
+	
 	
 	
 	
