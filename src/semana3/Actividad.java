@@ -24,12 +24,12 @@ public class Actividad {
 	
 	//Metodos
 	
-	public void Programar(int) {
+	public void programar(int edad, String sexo) {
 		
 	}
 	
 	public void IngresarSocio() {
-		
+		socio = 
 	}
 	
 	
