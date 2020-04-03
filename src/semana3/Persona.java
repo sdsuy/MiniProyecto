@@ -28,7 +28,7 @@ public class Persona {
 
 	// metodos
 	public int calcularEdad() {
-		// TODO: Devolver la cantidad de años de this.fechaDeNacimiento - fecha actual
+		// TODO: Devolver la cantidad de años de fecha actual - this.fechaDeNacimiento
 		//       en formato entero
 		return 0;
 	}
