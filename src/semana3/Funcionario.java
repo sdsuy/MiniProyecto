@@ -19,7 +19,7 @@ public class Funcionario extends Persona {
 	public void crear(Funcionario funcionario) {
 		
 		// TODO: Este método crea un funcionario, recibiendo un Funcionario como parametro
-		
+		//
 	}
 	
 	
