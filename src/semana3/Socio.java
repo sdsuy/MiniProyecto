@@ -18,20 +18,12 @@ public void crear(Socio socio ) {
 
 	
 }
-// public void calcularDescuento(Cuota cuota) {	
-public void mostrarNombreApellidosyFechadeIgreso() {
+ //public void calcularDescuento(Cuota cuota) {	
+
 
 }
-}
-public class TestHerencia1{
-	public static void main (String[] args) {
-		Socio socio1=new Socio("Pepe","Macri","1,66","23/08/1999","3");
-		socio1.crear(socio1);
-		socio1.mostrarNombreApellidosyFechadeIgreso();
-	}
-	}
-	
-	
-	
 
-}
+//}
+
+
+
