@@ -7,8 +7,8 @@ public class Socio extends Persona {
 	private Date fechaIngreso;
 	private int frecuencia;
 	//Constructor
-public Socio(String nombre, String apellido, Date fechaIngreso, int frecuencia) {
-	super(nombre, apellido);
+public Socio(String nombre, String apellido,double altura, Date fechaIngreso, int frecuencia) {
+	super(nombre, apellido, altura);
 	this.fechaIngreso=fechaIngreso;
 	this.frecuencia=frecuencia;
 	
