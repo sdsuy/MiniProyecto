@@ -28,8 +28,9 @@ public class Actividad {
 		
 	}
 	
-	public void IngresarSocio() {
-		socio = 
+	public void IngresarSocio(Socio socio) {
+		
+		
 	}
 	
 	
