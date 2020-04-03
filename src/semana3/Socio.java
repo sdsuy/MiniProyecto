@@ -14,10 +14,22 @@ public Socio(String nombre, String apellido,double altura, Date fechaIngreso, in
 	
 }
 public void crear(Socio socio ) {
-	//
+	// Este metodo crea un nuevo socio
+
 	
 }
-	
+// public void calcularDescuento(Cuota cuota) {	
+public void mostrarNombreApellidosyFechadeIgreso() {
+
+}
+}
+public class TestHerencia1{
+	public static void main (String[] args) {
+		Socio socio1=new Socio("Pepe","Macri","1,66","23/08/1999","3");
+		socio1.crear(socio1);
+		socio1.mostrarNombreApellidosyFechadeIgreso();
+	}
+	}
 	
 	
 	
