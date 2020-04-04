@@ -25,11 +25,11 @@ public class Actividad {
 	//Metodos.
 	
 	public void programar(int edad, String sexo) {   
-	//Programa las actividades teniendo en cuenta la edad y el sexo.
+		// TODO:Programa las actividades teniendo en cuenta la edad y el sexo.
 	}
 	
 	public void ingresarSocio(Socio socio) {
-	//ingresa un socio a una actividad.	
+		// TODO:Ingresa un socio a una actividad.	
 		
 	}
 	
