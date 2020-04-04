@@ -14,7 +14,9 @@ public Socio(String nombre, String apellido,Date fechaDeNacimiento, String sexo,
 		
 }
 
- 
+ private void calcularDescuento(Cuota cuota) {
+	 
+ }
 
 }
 
