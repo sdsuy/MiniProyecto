@@ -15,7 +15,8 @@ public Socio(String nombre, String apellido,Date fechaDeNacimiento, String sexo,
 }
 //Metodo
  private void calcularDescuento(Cuota cuota) {
-	 
+	  
+	 // TODO: devuelve el valor de la cuota, utilizando los datos de Clase Cuota.
  }
 
 }
