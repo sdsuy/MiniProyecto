@@ -14,9 +14,11 @@ public Socio(String nombre, String apellido,Date fechaDeNacimiento, String sexo,
 		
 }
 //Metodo
- private void calcularDescuento(Cuota cuota) {
+ private double calcularDescuento(Cuota cuota) {
 	  
-	 // TODO: devuelve el valor de la cuota, utilizando los datos de Clase Cuota.
+	 // TODO: devuelve el valor de la cuota, utilizando los datos de Clase Cuota, en base a la fecha de ingreso, this.fechaIngreso.
+	 return 0.0;
+	 
  }
 
 }
