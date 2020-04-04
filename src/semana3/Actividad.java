@@ -25,7 +25,7 @@ public class Actividad {
 	//Metodos.
 	
 	public void programar(int edad, String sexo) {   
-	//Programa las actividades teniendo en cuenta la edad y el sexo	
+	//Programa las actividades teniendo en cuenta la edad y el sexo.
 	}
 	
 	public void ingresarSocio(Socio socio) {
