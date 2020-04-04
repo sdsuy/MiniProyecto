@@ -13,7 +13,7 @@ public Socio(String nombre, String apellido,Date fechaDeNacimiento, String sexo,
 	this.frecuencia=frecuencia;
 		
 }
-
+//Metodo
  private void calcularDescuento(Cuota cuota) {
 	 
  }
